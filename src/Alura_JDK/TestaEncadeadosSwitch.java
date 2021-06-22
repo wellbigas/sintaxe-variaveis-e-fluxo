@@ -1,3 +1,5 @@
+package Alura_JDK;
+
 public class TestaEncadeadosSwitch {
         public static void main(String[] args) {
 
